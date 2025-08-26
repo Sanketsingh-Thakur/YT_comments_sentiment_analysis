@@ -1,8 +1,4 @@
-Perfect 💡 — here’s a **complete README.md** draft you can drop straight into your GitHub repo:
-
----
-
- 🎥 YouTube Comment Sentiment Analyzer
+🎥 YouTube Comment Sentiment Analyzer
 
 A simple web app that fetches comments from any YouTube video and performs **real-time sentiment analysis** using a **RoBERTa transformer model** from Hugging Face.
 The app is built with **Streamlit** for the frontend and `youtube-comment-downloader` for fetching comments — no dataset required!
